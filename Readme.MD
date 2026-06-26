@@ -29,7 +29,7 @@ Implementar un sistema simple de gestión de tareas utilizando programación ori
 1. Clonar el repositorio:
 
 ```bash
-git clone
+git clone https://github.com/DanteLopez17/Tarea-3.git
 ```
 
 2. Ingresar al directorio:
